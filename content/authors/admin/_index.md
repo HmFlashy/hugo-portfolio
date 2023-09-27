@@ -1,7 +1,7 @@
 ---
-title: Hugo Maitre (吳恩達)
+title: Hugo Maitre
 role: ""
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
