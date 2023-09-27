@@ -1,5 +1,5 @@
 ---
-title: Alice Wu (吳恩達)
+title: Hugo Maitre (吳恩達)
 role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
