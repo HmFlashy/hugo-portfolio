@@ -1,7 +1,7 @@
 ---
 title: Hugo Maitre
 role: ""
-avatar_filename: ""
+avatar_filename: capture-d-écran-2023-09-15-181315.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
